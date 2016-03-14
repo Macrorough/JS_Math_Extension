@@ -1,7 +1,12 @@
+//Empty law object.
+var law {
+	
+}
+
 //Law of Cosine
 //Makes use of custom cos functions above.
 //For finding missing side when 1 angle and 2 sides are known.  (Uses law of cosine)
-Math.lawCosSide = function(a, b, d)
+Math.law.CosSide = function(a, b, d)
 {
 	//a = side a
 	//b = side b
@@ -23,7 +28,7 @@ Math.lawCosSide = function(a, b, d)
 }
 
 //Law of cosine for finding angle when all sides are known (Uses law of cos)
-Math.lawCosAngle = function(a, b, c)
+Math.law.CosAngle = function(a, b, c)
 {
 	//a, b and c are all sides.
 	
