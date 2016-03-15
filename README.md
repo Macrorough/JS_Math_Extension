@@ -1,3 +1,3 @@
 # JS_Math_Extension
-## Version 1.1.0
-### Released 3/16/16
+## Version 1.0.1
+### Released 3/15/16
