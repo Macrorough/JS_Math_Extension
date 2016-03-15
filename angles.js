@@ -1,15 +1,19 @@
-Math.radToDeg = function(radians) 
+Math.angle {
+	
+}
+
+Math.angle.radToDeg = function(radians) 
 {
 	return radians * (180 / Math.PI);
 }
 
 //Convert degrees to radians
-Math.degToRad = function(degrees) 
+Math.angle.degToRad = function(degrees) 
 {
 	return degrees * (Math.PI / 180);
 }
 
-Math.degRadConversion = function(n, type) {
+Math.angle.degRadConversion = function(n, type) {
 	var ans;
 	
 	//If the conversion should be degrees to radians
