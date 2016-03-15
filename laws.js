@@ -1,5 +1,5 @@
 //Empty law object.
-var law {
+Math.law {
 	
 }
 
