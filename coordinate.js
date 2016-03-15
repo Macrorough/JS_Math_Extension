@@ -1,5 +1,9 @@
+Math.coordinate = {
+
+}
+
 //Find the distance between two points
-Math.distTwoDimension = function(a, b, x, y) 
+Math.coordinate.distTwoDimension = function(a, b, x, y) 
 {
 	//a and b are coords for point 1
 	//x and y are coords for point 2
